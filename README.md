@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frank4211
+- 👋 Hi, I’m Frank Chou
 - 👀 I’m interested in astronomy and electronic project
 - 🌱 I’m currently learning variable stars
 - 💞️ I’m looking to collaborate on ...
